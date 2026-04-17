@@ -1,10 +1,10 @@
 Dear Customer,
 
-We confirm that Your Norton 360 subscription has been renewed successfully. The payment of 356.49 USD has been auto-debited from your account to continue protection for your device and data.
+We confirm that Your Norton 360 subscription has been renewed successfully. The payment of 386.49 USD has been auto-debited from your account to continue protection for your device and data.
 
 Order details:
 Item: Norton 360 subscription
-Amount: 356.49 USD
+Amount: 386.49 USD
 Device: 1 Pc
 Date: 17 April 2026
 Payment Amount: Auto Debit
